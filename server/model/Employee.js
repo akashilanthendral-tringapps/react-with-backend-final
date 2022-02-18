@@ -1,5 +1,5 @@
 const mysql2 = require('mysql2');
-
+// for testing purpose
 const conn = mysql2.createConnection({
     database:"employeedatabase",
     host:"localhost",
